@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ab1BWVexDjMkzghRny82QVjeJZs=
+		4u3Tzvs0JZyhFV36aIBO9OLX8B8=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftdoc</key>
 		<data>
-		UD6yLIEJdumYGt5yBysvUGABJ+4=
+		+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
 		<data>
-		xHjToZ62XNY6QIsXPSP85LVPO6g=
+		GZz+aGp3Fd1Xg9uRwExtKRZd278=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Fww3r0Q03+y3hkvRy7jNrTNS0JI=
+		/jGWhYm7gqtxMhKk4VErMnyoptc=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		L1eLvfbvUTl8lSf3sR5/X6MO98s=
+		O7Cly2LVHlJFgCNuGYXzBz1PKDM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		n1T/UpqDylL5Vg2Y5RJuWultmDE=
+		2nC+L2rLUvxODVEkJZHa+/sTasY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -65,55 +65,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UD6yLIEJdumYGt5yBysvUGABJ+4=
+			+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Tuf6ubC4Rueuu+O36tDvB3JU0jjTLebMm0URk6mHNs=
+			QXB3WSfbGKvDlPFVz4/jkfUJncQ9IXtKX7tYcT08GUc=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xHjToZ62XNY6QIsXPSP85LVPO6g=
+			GZz+aGp3Fd1Xg9uRwExtKRZd278=
 			</data>
 			<key>hash2</key>
 			<data>
-			aOGZt+iwbjbGyTs9hqsnv4onDADgOKTv8HqusnqAc64=
+			ABEaZ9Fax6fMNYgvYHP+bYQC3m1N4TLlLuT8Cp7XqfI=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fww3r0Q03+y3hkvRy7jNrTNS0JI=
+			/jGWhYm7gqtxMhKk4VErMnyoptc=
 			</data>
 			<key>hash2</key>
 			<data>
-			NEQ0kS2jK9MycrnSY6dNstohXg0aCvApiY43PKsN5oQ=
+			VriqlmjAPcEFEqxSAyNC0XW7RzrTyaLcyDk+f8zisIc=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L1eLvfbvUTl8lSf3sR5/X6MO98s=
+			O7Cly2LVHlJFgCNuGYXzBz1PKDM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xP3iFOLk2Rk7NgH6ZvU/+aNlG+epGHjCRxIulAs2CIc=
+			jeyjWUPuwm+3TgPnNFAcaooavow7+GUUxXB4Wje2mTY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n1T/UpqDylL5Vg2Y5RJuWultmDE=
+			2nC+L2rLUvxODVEkJZHa+/sTasY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8EZP9LjzXmuvwhIvvKyNF2GLHavCRs8rllFKgFrTVBE=
+			9NW15ZiulYfS70TmBU0Yi3ZkgIrt+RcIn+2E7IMVeG4=
 			</data>
 		</dict>
 	</dict>
