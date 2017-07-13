@@ -1,0 +1,10 @@
+framework module AdamCheckbox {
+  umbrella header "AdamCheckbox.h"
+
+  export *
+  module * { export * }
+}
+
+module AdamCheckbox.Swift {
+    header "AdamCheckbox-Swift.h"
+}
