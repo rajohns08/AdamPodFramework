@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eHSbayeNwnW9Tcp883LEgnScihc=
+		0XIla1/ZmlHNKTWuQFePFm2vfI8=
 		</data>
 		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftdoc</key>
 		<data>
-		3wwnGWfrS4OJVU2xzjcrggpI9E8=
+		+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
 		</data>
 		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftmodule</key>
 		<data>
-		pNBFH4RwI35fmPT1Hh/mPWFdT6I=
+		MwUfuL+t+x+cWLgXCLj18sqv8a8=
 		</data>
 		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Y1LzxsUvZMDP38s8DxboVPnomEs=
+		/jGWhYm7gqtxMhKk4VErMnyoptc=
 		</data>
 		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		swZYagZcgqYUs9iViIzEE4iy2W0=
+		kH3q+0K39QrEl6Mr+QGuZl4t/xk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,44 +65,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3wwnGWfrS4OJVU2xzjcrggpI9E8=
+			+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			aWXP8n6R6Hsars2MxSrkqTgCIPvg5rb8fyKQswUkSD0=
+			QXB3WSfbGKvDlPFVz4/jkfUJncQ9IXtKX7tYcT08GUc=
 			</data>
 		</dict>
 		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pNBFH4RwI35fmPT1Hh/mPWFdT6I=
+			MwUfuL+t+x+cWLgXCLj18sqv8a8=
 			</data>
 			<key>hash2</key>
 			<data>
-			kFtvU33rymEfZ1F4GQ3oEKqmjEke5EZwh1OjDXMWxbg=
+			JtByBVrgFxjPufry4bzEGKfBdPnLwPx932GPxN6OW64=
 			</data>
 		</dict>
 		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y1LzxsUvZMDP38s8DxboVPnomEs=
+			/jGWhYm7gqtxMhKk4VErMnyoptc=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZHg/pvCQl9c63uF2Pqs2P7p1xfeBYF3BZLVEGaqCGo=
+			VriqlmjAPcEFEqxSAyNC0XW7RzrTyaLcyDk+f8zisIc=
 			</data>
 		</dict>
 		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			swZYagZcgqYUs9iViIzEE4iy2W0=
+			kH3q+0K39QrEl6Mr+QGuZl4t/xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KmD4awb0GoZffjUaVkgqr5jAx6uvpYXoNhFd5A7ufzE=
+			BrcBJnZev7xcIHol2ituIbZbfm4RmMtZLyCWQoz5ZXs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
